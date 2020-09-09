@@ -1,7 +1,8 @@
 # awesome-dev-blogs
 
 ## PHP
-- https://stitcher.io/
-- https://freek.dev/originals/
-- https://ryangjchandler.co.uk/
-- https://christoph-rumpel.com/
+- https://stitcher.io/ (EN)
+- https://freek.dev/originals/ (EN)
+- https://ryangjchandler.co.uk/ (EN)
+- https://christoph-rumpel.com/ (EN)
+- https://blog.appkr.dev (KO)
