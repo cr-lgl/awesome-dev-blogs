@@ -10,3 +10,4 @@
 - https://tsh.io/blog/category/php/ (EN)
 - https://medium.com/@mtrdesign (EN)
 - https://sergeyzhuk.me/blog/ (EN)
+- https://www.ambionics.io/blog/ (EN)
