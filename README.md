@@ -12,3 +12,6 @@
 - https://sergeyzhuk.me/blog/ (EN)
 - https://www.ambionics.io/blog/ (EN)
 - https://www.rias.be (EN)
+
+## JAVA
+- https://www.baeldung.com/ (EN)
